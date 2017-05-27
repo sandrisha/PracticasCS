@@ -8,28 +8,27 @@ namespace Practica1
 {
     public class Program
     {
-        //Programa donde recibo dos valores de la consola
-        //y verifico cuál de éstos es mayor
-        //y de acuerdo a esto, mostrar un mensaje de cuál es el mayor
+        //Programa donde recibo dos valores numéricos
+        //y verifico cuál es el mayor entre ellos
+        //y de acuerdo a esto, mostrar un mensaje 
         static void Main(string[] args)
         {
             // <<<<<<<<<<<< CAPTURA DE DATOS >>>>>>>>>>>>>>>
-            //declaro var con dos valores de tipo entero
+            // declaro var con dos valores de tipo entero
             int valor1 = 0, valor2 = 0;
-            //declaro una var de tipo cadena 
+            // declaro una var de tipo cadena 
             //para poder recibir los valores de la consola
             string cadena;
-            //El programa muestra un mensaje para pedir los datos
+            // El programa muestra un mensaje para pedir los datos
             Console.WriteLine("Dame el primer valor en números: ");
-            //para recibir el valor utilizo el método
-            //ReadLine para que me regrese una cadena
-            //a través de una variable
-            //Es decir la var Cadena va a ser igual a lo que regrese el objeto Console
+            // para recibir el valor utilizo el método ReadLine
+            // para que me regrese una cadena a través de
+            // la variable que va a ser igual a lo que regrese el objeto Console
             cadena = Console.ReadLine();
-            //para evitar que se pierda el valor recibido, 
-            //lo debo asignar a la 1ra var, a través del objeto de conversión 
-            //Convert.ToInt32 - para convertir la cadena en entero
-            //Si capturo una cadena que no tiene números el resultado será un error
+            // para evitar que se pierda el valor recibido, 
+            // lo debo asignar a la 1ra var, a través del objeto de conversión 
+            // Convert.ToInt32 - para convertir la cadena en entero
+            // Si capturo una cadena que no tiene números el resultado será un error
             valor1 = Convert.ToInt32(cadena);
             //repito lo mismo para el segundo valor
             Console.WriteLine("Dame el segundo valor en números: ");
@@ -37,9 +36,9 @@ namespace Practica1
             valor2 = Convert.ToInt32(cadena);
 
             // <<<<<<<<<<<< INDICAR CUÁL ES MAYOR >>>>>>>>>>>>>>>
-            // Para indicar cuál es el mayor tengo que compararlo
-            // para ello utilizo una bucle de control if para evaluar 
-            // una condición y a partir de ella realizar ciertas instrucciones
+            // Para ello tengo que compararlo
+            // utilizo una bucle de control if para evaluar una condición
+            // y a partir de ella realizar ciertas instrucciones
             // si se cumplen y sino hacer otras
             if (valor1 > valor2)
             {
