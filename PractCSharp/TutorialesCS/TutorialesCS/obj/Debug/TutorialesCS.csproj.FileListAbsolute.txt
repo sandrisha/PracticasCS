@@ -1,0 +1,6 @@
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\TutorialesCS\TutorialesCS\bin\Debug\TutorialesCS.exe.config
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\TutorialesCS\TutorialesCS\bin\Debug\TutorialesCS.exe
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\TutorialesCS\TutorialesCS\bin\Debug\TutorialesCS.pdb
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\TutorialesCS\TutorialesCS\obj\Debug\TutorialesCS.csprojResolveAssemblyReference.cache
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\TutorialesCS\TutorialesCS\obj\Debug\TutorialesCS.exe
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\TutorialesCS\TutorialesCS\obj\Debug\TutorialesCS.pdb

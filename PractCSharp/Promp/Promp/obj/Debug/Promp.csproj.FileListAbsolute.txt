@@ -1,0 +1,6 @@
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Promp\Promp\obj\Debug\Promp.csprojResolveAssemblyReference.cache
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Promp\Promp\bin\Debug\Promp.exe.config
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Promp\Promp\bin\Debug\Promp.exe
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Promp\Promp\bin\Debug\Promp.pdb
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Promp\Promp\obj\Debug\Promp.exe
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Promp\Promp\obj\Debug\Promp.pdb

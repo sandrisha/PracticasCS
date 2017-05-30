@@ -1,0 +1,6 @@
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Grados\Grados\bin\Debug\Grados.exe.config
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Grados\Grados\bin\Debug\Grados.exe
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Grados\Grados\bin\Debug\Grados.pdb
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Grados\Grados\obj\Debug\Grados.csprojResolveAssemblyReference.cache
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Grados\Grados\obj\Debug\Grados.exe
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Grados\Grados\obj\Debug\Grados.pdb

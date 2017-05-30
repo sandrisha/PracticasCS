@@ -1,0 +1,6 @@
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Area\Area\bin\Debug\Area.exe.config
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Area\Area\bin\Debug\Area.exe
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Area\Area\bin\Debug\Area.pdb
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Area\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Area\Area\obj\Debug\Area.exe
+D:\Mis documentos\Cursos\C#\PRACTCSHARP\Area\Area\obj\Debug\Area.pdb
